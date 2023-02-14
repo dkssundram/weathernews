@@ -1,10 +1,15 @@
 This Project is made by Deepak Kumar Sundram
+
 Contact
+
 Email: dkssundram@gmail.com
+
 Github: https://github.com/dkssundram/
+
 Linkedin: https://www.linkedin.com/in/deepak-kumar-sundram/
 
 Newsfeed and Weather App
+
 This is a React app that displays the weather based on the user's geolocation, as well as a newsfeed that the user can search and read. The app was created using the Create React App tool.
 
 Features
